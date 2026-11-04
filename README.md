@@ -16,7 +16,7 @@ Fitness and electronics are the interests behind both of those projects. HiWay c
 
 I like understanding how things work below the surface, so I tend to choose projects that go a layer deeper: moving encryption onto the GPU, generating a game world in real time, or keeping user data intact through database changes.
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,cpp,cs,python,ruby,unity,rails,react,django,postgres,mysql,sqlite,redis,docker,nginx&perline=17" alt="Flutter, Dart, Swift, C++, C#, Python, Ruby, Unity, Ruby on Rails, React, Django, PostgreSQL, MySQL, SQLite, Redis, Docker, Nginx" width="480">
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,cpp,cs,python,ruby,unity,rails,react,django,postgres" alt="Flutter, Dart, Swift, C++, C#, Python, Ruby, Unity, Ruby on Rails, React, Django, SQL" height="24">
 
 ## Currently learning
 
