@@ -1,41 +1,35 @@
-
 # Hi there! 👋
 
-I'm interested in software development, systems engineering, and the integration of software and hardware. I develop my technical skills through personal projects, experimenting with new technologies, and solving practical engineering problems.
+I build mobile apps with Flutter and I'm growing towards systems engineering, combining programming with electronics, server administration and embedded systems.
 
-## 🚀 Featured Project
+## Current project: FitApp
 
-### [FitApp — Workout Tracking Application](https://github.com/KrajewskiD/FitApp)
+**A workout app for quickly logging training plans and tracking progress offline.**
 
-I'm developing **FitApp**, a workout tracking application designed to help users create workout plans, record training sessions, and monitor their progress over time. The first version of the application is already available, and I'm currently working on an improved version with enhanced functionality and user experience.
+The first version is already available, and I'm currently working on an improved release.
 
-**Key features and project goals:**
-- **Offline functionality** — access to core features without requiring a constant Internet connection.
-- **Workout management** — create training plans and track workout progress.
-- **Exercise library** — visual demonstrations of exercise techniques and information about the muscle groups involved.
-- **Plan sharing** — import and export workout plans using QR codes.
-- **Web platform integration** — download workout templates shared by other users through a dedicated online platform.
+- **Offline plans and progress:** save training plans and track results without an internet connection
+- **Exercise dictionary:** visual demonstrations of proper technique, plus descriptions of the muscle groups involved
+- **QR code sharing:** quickly pass ready-made plans on to other people
+- **Web platform:** download plans from a collection of templates shared by users
 
-## 💻 Programming Languages & Technologies
+[**View the FitApp repository →**](https://github.com/KrajewskiD/FitApp)
 
-- **Flutter / Dart** — mobile application development and user interfaces.
-- **SQL** — working with data and relational databases.
-- **Python** — programming, scripting, and task automation.
-- **C#** — software development and exploring the .NET ecosystem.
+## Tech stack
 
-## ⚙️ Technical Interests
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-Beyond software development, I'm expanding my knowledge of systems engineering and hardware technologies.
+## What I'm learning
 
-- **Analog and Digital Electronics** — understanding electronic circuits, their operation, and practical applications.
-- **Industrial Automation & PLCs** — learning PLC programming, control logic, and the integration of industrial automation components.
-- **Embedded Systems** — exploring system architecture and hardware-software interaction.
-- **System Administration & Server Infrastructure** — learning about IT infrastructure, server environments, configuration, and network services.
+- Analog and digital electrical engineering, and general electronics
+- Server environment administration
+- Embedded systems architecture design
+- PLC controllers
 
-## 🎯 Current Goals
+## Interests
 
-My goal is to develop a broad range of technical skills that combine software development with electronics, industrial automation, and IT infrastructure.
-
-I'm particularly interested in projects that require analytical thinking, system design, problem-solving, and the integration of hardware and software components.
-
-I believe in **learning by doing**, continuously improving my projects, and gaining practical experience with new technologies.
+Fitness apps · Electronics · Embedded systems · PLC controllers
