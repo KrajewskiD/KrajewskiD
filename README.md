@@ -1,35 +1,17 @@
-# Hi there! 👋
+# Dawid Krajewski
 
-I build mobile apps with Flutter and I'm growing towards systems engineering, combining programming with electronics, server administration and embedded systems.
+I build mobile apps with Flutter and I'm growing towards systems engineering, where software meets electronics, servers and embedded hardware.
 
-## Current project: FitApp
+I'm currently working on HiWay, an offline training journal built with Flutter. My recent work includes [StacjaPrudnik](https://github.com/KrajewskiD/Prudnik-WeatherStation), a [live weather station](https://stacjaprudnik.online) I built end to end, from the radio receiver firmware to the server and public dashboard.
 
-**A workout app for quickly logging training plans and tracking progress offline.**
+## Technologies
 
-The first version is already available, and I'm currently working on an improved release.
+**Languages:** Dart, C++, C#, Swift, Python, Ruby
 
-- **Offline plans and progress:** save training plans and track results without an internet connection
-- **Exercise dictionary:** visual demonstrations of proper technique, plus descriptions of the muscle groups involved
-- **QR code sharing:** quickly pass ready-made plans on to other people
-- **Web platform:** download plans from a collection of templates shared by users
+**Frameworks:** Flutter, Unity, Ruby on Rails, React, Django
 
-[**View the FitApp repository →**](https://github.com/KrajewskiD/FitApp)
+**Data and infrastructure:** PostgreSQL, MySQL, SQLite, Redis, Docker, Nginx
 
-## Tech stack
+## Currently learning
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-## What I'm learning
-
-- Analog and digital electrical engineering, and general electronics
-- Server environment administration
-- Embedded systems architecture design
-- PLC controllers
-
-## Interests
-
-Fitness apps · Electronics · Embedded systems · PLC controllers
+Analog and digital electronics, server administration, embedded systems architecture and PLC controllers.
